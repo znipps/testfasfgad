@@ -60,3 +60,5 @@ $ mvn clean fabric8:deploy -Popenshift
 You can learn more about this booster and rest of the Spring Boot runtime in the link:http://launcher.fabric8.io/docs/spring-boot-runtime.html[Spring Boot Runtime Guide].
 
 NOTE: Run the set of integration tests included with this booster using `mvn clean verify -Popenshift,openshift-it`.
+
+# Test
