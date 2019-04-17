@@ -62,3 +62,4 @@ You can learn more about this booster and rest of the Spring Boot runtime in the
 NOTE: Run the set of integration tests included with this booster using `mvn clean verify -Popenshift,openshift-it`.
 
 # Test
+aa
